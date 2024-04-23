@@ -60,29 +60,6 @@ The model achieves an accuracy of approximately 75% on the test set. The perform
 - keras
 - matplotlib
 
-## Usage
 
-1. Clone the repository:
-
-   ```
-   git clone https://github.com/your_username/sentiment-analysis-lstm.git
-   ```
-
-2. Install dependencies:
-
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter notebook or Python script to train and evaluate the model.
-
-## Acknowledgments
-
-- [Sentiment140 dataset](https://www.kaggle.com/kazanova/sentiment140)
-- [Kaggle API](https://www.kaggle.com/docs/api)
-
----
-
-Feel free to customize the README according to your preferences and add any additional information you find relevant.
 
 
